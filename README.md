@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer and Team Lead
 --------------------------------
 
-I have been working in IT field more 4 years and now I am working as Python developer for last 2 years and in a Startup company .I start my career as wordpress desinger after I switched my role to Python developer but ny main aim is to become a succesfull data analyst.
+I have been working in IT field more 4 years and now I am working as Python developer for last 2 years and in a Startup company .I start my career as wordpress desinger after I switched my role to Python developer,now I am in a journey to become a succesfull data analyst cum software developer.
 
 *   🌍  I'm based in Kerala,India
 *   🚀  I'm currently working on [Cyberonics.in](http://cyberonics.in)
